@@ -1,0 +1,13 @@
+# Ignore semua file Python
+*.py
+
+# Ignore semua file database SQLite
+*.db
+
+# Ignore folder cache Python
+__pycache__/
+
+# Ignore file bytecode Python
+*.pyc
+*.pyo
+*.pyd
